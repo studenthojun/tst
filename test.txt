@@ -1,1 +1,1 @@
-a
+echo hi
